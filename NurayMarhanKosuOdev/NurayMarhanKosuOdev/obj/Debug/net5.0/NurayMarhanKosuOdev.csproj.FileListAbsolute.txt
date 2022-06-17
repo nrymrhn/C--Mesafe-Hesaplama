@@ -1,0 +1,32 @@
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.csproj.AssemblyReference.cache
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.AssemblyInfoInputs.cache
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.AssemblyInfo.cs
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.csproj.CoreCompileInputs.cache
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\bin\Debug\net5.0\NurayMarhanKosuOdev.exe
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\bin\Debug\net5.0\NurayMarhanKosuOdev.deps.json
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\bin\Debug\net5.0\NurayMarhanKosuOdev.runtimeconfig.json
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\bin\Debug\net5.0\NurayMarhanKosuOdev.runtimeconfig.dev.json
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\bin\Debug\net5.0\NurayMarhanKosuOdev.dll
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\bin\Debug\net5.0\ref\NurayMarhanKosuOdev.dll
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\bin\Debug\net5.0\NurayMarhanKosuOdev.pdb
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.dll
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\ref\NurayMarhanKosuOdev.dll
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.pdb
+C:\Users\marha\OneDrive\Masaüstü\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.genruntimeconfig.cache
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\bin\Debug\net5.0\NurayMarhanKosuOdev.exe
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\bin\Debug\net5.0\NurayMarhanKosuOdev.deps.json
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\bin\Debug\net5.0\NurayMarhanKosuOdev.runtimeconfig.json
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\bin\Debug\net5.0\NurayMarhanKosuOdev.runtimeconfig.dev.json
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\bin\Debug\net5.0\NurayMarhanKosuOdev.dll
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\bin\Debug\net5.0\ref\NurayMarhanKosuOdev.dll
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\bin\Debug\net5.0\NurayMarhanKosuOdev.pdb
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.csproj.AssemblyReference.cache
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.AssemblyInfoInputs.cache
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.AssemblyInfo.cs
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.csproj.CoreCompileInputs.cache
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.dll
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\ref\NurayMarhanKosuOdev.dll
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.pdb
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\Boost Ödevler\NurayMarhanKosuOdev\NurayMarhanKosuOdev\obj\Debug\net5.0\NurayMarhanKosuOdev.genruntimeconfig.cache
